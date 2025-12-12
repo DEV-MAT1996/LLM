@@ -83,7 +83,6 @@ The mental model below summarizes the contents covered in this book.
 
 <img src="https://sebastianraschka.com/images/LLMs-from-scratch-images/mental-model.jpg" width="650px">
 
-
 <br>
 &nbsp;
 
